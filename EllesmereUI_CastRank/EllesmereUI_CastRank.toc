@@ -1,0 +1,10 @@
+## Interface: 120000, 120001, 120005, 120007, 120100, 16001
+## Title: EllesmereUI |cff0cd29fCast Rank|r
+## Notes: Spell rank after the spell name on the EllesmereUI player cast bar ("Spell - Rank 3" or "Spell (Rank 3)"). Settings: Resource Bars > Cast Bar > EXTRAS.
+## Author: Custom
+## Version: 1.0.0
+## Dependencies: EllesmereUI, EllesmereUIResourceBars
+## IconTexture: Interface\AddOns\EllesmereUI\media\eg-logo.tga
+
+CastRank.lua
+CastRank_Options.lua
